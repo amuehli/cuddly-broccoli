@@ -2,13 +2,6 @@
 icon: ../resources/logos/C3RDM_EN_V3_transparent_w1156.png
 -->
 
-filename: 0120_storage-solutions_DE.md
-path: ./MAIN/oneshots/
-assets: ../resources/
-
-description: module on storage-solutions especially within University of Cologne infrastructure
-language: DE
-
 ---
 # Einführung in den Themenblock 2: "Speicherlösungen"
 

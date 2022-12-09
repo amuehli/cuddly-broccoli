@@ -15,7 +15,7 @@ Diese **Leitfragen** sind:
 
 Themen, die dabei behandelt werden sind u.a.: Replikation, Versionierung, Backup, Archivierung, DSGVO, Verschlüsselung, Passwortmanager
 
-Wenn Sie anhand der Fragen eine bessere Vorstellung darüber gewonnen haben, was sie bei der Planung Ihrer Speicherlösungen berücksichtigen sollten, liefert der [Themenblock 2: Speicherlösungen](./oneshots/0120_storage-solutions_DE.md) einen Überblick über die physischen Speicher (das "Blech"), die an der Universität zu Köln zur Verfügung stehen und der [Themenblock 3: Organisation Daten](./0130_organization-documentation_DE.md) behandelt Themen rund um die Organisation und Dokumentation der Daten, wenn eine Speicherlösung gefunden ist.
+Wenn Sie anhand der Fragen eine bessere Vorstellung darüber gewonnen haben, was sie bei der Planung Ihrer Speicherlösungen berücksichtigen sollten, liefert der [Themenblock 2: Speicherlösungen](./0120_storage-solutions_DE.md) einen Überblick über die physischen Speicher (das "Blech"), die an der Universität zu Köln zur Verfügung stehen und der [Themenblock 3: Organisation Daten](./0130_organization-documentation_DE.md) behandelt Themen rund um die Organisation und Dokumentation der Daten, wenn eine Speicherlösung gefunden ist.
 
 ---
 ## Was sind Forschungsdaten?

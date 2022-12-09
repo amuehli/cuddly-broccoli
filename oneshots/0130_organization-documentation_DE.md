@@ -2,13 +2,6 @@
 icon: ../resources/logos/C3RDM_EN_V3_transparent_w1156.png
 -->
 
-filename: 0130_organization-documentation_DE.md
-path: ./MAIN/oneshots/
-assets: ../resources/
-
-description: module on folder and file organization and data documentation
-language: DE
-
 ---
 # Einführung in den Themenblock 3: "Organisation Daten"
 
@@ -331,4 +324,4 @@ Wichtige Themen sind:
 
 Haben Sie noch offene Fragen dazu, was eigentlich überhaupt Ihre Speicherbedarfe sind, möchten wir Sie anregen sich (noch) einmal den einleitenden [Themenblock 1: Leitfragen Speicher](./0110_storage-key-questions_DE.md) anzusehen. Für Informationen zu Speicherlösungen und Speicherempfehlungen an der Universität zu Köln hilft vielleicht (noch einmal) ein Blick in den vorangegangenen [Themenblock 2: Speicherlösungen](./0120_storage-solutions_DE.md).
 
-(weitere Kapitel sind derzeit noch in Entwicklung, vgl. [Überblicksseite der Themenblöcke](https://www.ilias.uni-koeln.de/ilias/goto_uk_fold_4178361.html))
+(weitere Kapitel sind derzeit noch in Entwicklung)
