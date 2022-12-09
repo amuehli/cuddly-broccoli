@@ -2,13 +2,6 @@
 icon: ../resources/logos/C3RDM_EN_V3_transparent_w1156.png
 -->
 
-filename: 0110_storage-key-questions_DE.md
-path: ./MAIN/oneshots/
-assets: ../resources/
-
-description: module on key questions storage, backup and encryption
-language: DE
-
 ---
 # Einführung in den Themenblock 1: "Leitfragen Speicher"
 
